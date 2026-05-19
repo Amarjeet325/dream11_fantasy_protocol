@@ -6,7 +6,7 @@ By utilizing Stellar's ultra-low fees, sub-second consensus times, and Soroban's
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The core of this marketplace is a secure, warning-free, and thoroughly tested Soroban smart contract written in Rust. It serves as a decentralized game master that:
 1. **Creates Contests**: Managers/creators can spin up fantasy contests with specific entry fees, token assets (e.g., USDC, XLM wrapped tokens), and descriptive metadata.
